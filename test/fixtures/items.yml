@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  keyword: MyString
+  shelf_num: 1
+  level_num: 1
+  bin_num: 1
+  other_info: MyString
+  target_img_path: MyString
+  availability: false
+
+two:
+  name: MyString
+  keyword: MyString
+  shelf_num: 1
+  level_num: 1
+  bin_num: 1
+  other_info: MyString
+  target_img_path: MyString
+  availability: false
